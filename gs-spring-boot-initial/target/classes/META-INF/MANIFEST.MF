@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Specification-Vendor: Pivotal Software, Inc.
+Build-Jdk: 1.7.0_80
+Built-By: SR4PXM
+Created-By: Maven Integration for Eclipse
+Specification-Title: demo
+Implementation-URL: http://projects.spring.io/spring-boot/demo/
+Specification-Version: 0.0.1-SNAPSHOT
+
